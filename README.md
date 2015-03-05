@@ -29,11 +29,11 @@ commands to the yorick interpreter.)
 
 # Content
 * yorick.el  -- provides emacs modes for
-1. editing yorick source code
-2. a terminal window for interactive yorick sessions
-3. same terminal window for shell and ssh sessions
+  1. editing yorick source code
+  2. a terminal window for interactive yorick sessions
+  3. same terminal window for shell and ssh sessions
 
-* yorick-auto.el
+* yorick-auto.el..
   put this and yorick.el in your site-lisp directory, and load it in
   site-start.el to autoload the yorick, ysh, yssh, and yutil-setup functions.
   Users should still put a yutil-setup call in their .emacs
