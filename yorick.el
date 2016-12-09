@@ -5,7 +5,11 @@
 ;; Copyright (c) 2000 David H. Munro.
 
 ;; Author: David H. Munro <dhmunro at users.sf.net>
+;; Maintainer: Someone Else <someone@example.com>
+;; Created: 14 Jul 2000
 ;; Keywords: yorick
+;; Homepage: http://dhmunro.github.io/yorick-doc/
+;; Version: 0.0.1
 
 ;; yorick.el is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
